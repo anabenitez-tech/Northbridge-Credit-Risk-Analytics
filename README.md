@@ -51,13 +51,13 @@ The **NORTHBRIDGE Financial Analytics** dashboard contains two complementary pag
 
 Portfolio composition, observed BAD rates, risk segments, classification results, and prior delinquencies.
 
-![Credit Risk Overview](images/credit_risk_overview.png)
+![Credit Risk Overview](images/credit_risk_overview.png?v=2)
 
 ### 2. Model Performance & Risk
 
 Random Forest evaluation metrics, model comparison, confusion matrix, feature importance, and model limitations.
 
-![Model Performance and Risk](images/model_performance.png)
+![Model Performance & Risk](images/model_performance.png?v=2)
 
 ## Key Findings
 
